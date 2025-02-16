@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github.com/pavannimbalka" alt="pavan nimbalkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkurhe&show_icons=true&locale=en" alt="pavan nimbalkar" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/pavannimbalka" alt="pavan nimbalkar" /></p>
