@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github.com/pavannimbalka" alt="pavan nimbalkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/pavannimbalka" alt="pavan nimbalkar" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/pavannimbalkar/pavannimbalkar/edit/main/profile.md" alt="pavan nimbalkar" /></p>
